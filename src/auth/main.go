@@ -14,7 +14,7 @@ func main() {
 	// @contact.name   API Support
 	// @contact.url    http://www.swagger.io/support
 	// @contact.email  support@swagger.io
-	// @host localhost:8081
+	// @host localhost:8082
 	// @BasePath /api/v1
 
 	// Load environment variables
